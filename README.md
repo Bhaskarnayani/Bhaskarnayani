@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Bhaskarnayani
 - 👀 I’m interested in Python Developer
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nayanibhaskar73@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: nothing
 
 <!---
