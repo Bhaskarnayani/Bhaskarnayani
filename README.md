@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python Developer
 - 🌱 I’m currently learning web development
 - 📫 How to reach me nayanibhaskar73@gmail.com
+- Portfolio https://capable-llama-7a704a.netlify.app
 - ⚡ Fun fact: nothing
 
 <!---
